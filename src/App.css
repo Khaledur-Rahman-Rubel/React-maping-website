@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.card {
+  background-color: #363636;
+  color: white;
+  width: 405px;
+  height: 450px;
+  border-radius: 5%;
+  overflow: hidden;
+  display: inline-block;
+  margin-left: 10px;
+  text-align-last: left;
+  margin-bottom: 8px;
+}
+img {
+  width: 405px;
+  height: 225px;
+  border-radius: 5%;
+}
+.price {
+  color: goldenrod;
+  margin-bottom: 2px;
+}
+.rating {
+  color: goldenrod;
+  margin-top: 0px;
+}
+.footer {
+  padding-left: 5px;
+}
+.last-footer {
+  background-color: gray;
+  margin-left: 145px;
+  padding: 4px;
+  border-radius: 20%;
+}
+.footer i:hover {
+  background-color: goldenrod;
+}
+.desc {
+  margin-bottom: 5px;
+}
