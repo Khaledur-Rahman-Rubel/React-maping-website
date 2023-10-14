@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "img": "img/logo1.jpg",
     "alt": "Bag",
     "product": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
@@ -8,6 +9,7 @@
     "description": "Description: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
   },
   {
+    "id": 2,
     "img": "img/2.jpg",
     "alt": "T-Shirt",
     "product": "Mens Casual Premium Slim Fit T-Shirts",
@@ -16,6 +18,7 @@
     "description": "Description: Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket."
   },
   {
+    "id": 3,
     "img": "img/3.jpg",
     "alt": "Jacket",
     "product": "Mens Cotton Jacket",
@@ -24,6 +27,7 @@
     "description": "Description: great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day."
   },
   {
+    "id": 4,
     "img": "img/4.jpg",
     "alt": "Casual",
     "product": "Mens Casual Slim Fit",
@@ -32,6 +36,7 @@
     "description": "Description: The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description."
   },
   {
+    "id": 5,
     "img": "img/5.jpg",
     "alt": "Bracelet",
     "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
@@ -40,7 +45,35 @@
     "description": "Description: From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection."
   },
   {
+    "id": 6,
     "img": "img/6.jpg",
+    "alt": "Petite",
+    "product": "Solid Gold Petite Micropave",
+    "price": "$168",
+    "rating": "3.9/5",
+    "description": "Description: Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days."
+  },
+  {
+    "id": 7,
+    "img": "img/5.jpg",
+    "alt": "Bracelet",
+    "product": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": "$695",
+    "rating": "4.6/5",
+    "description": "Description: From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection."
+  },
+  {
+    "id": 8,
+    "img": "img/2.jpg",
+    "alt": "Petite",
+    "product": "Solid Gold Petite Micropave",
+    "price": "$168",
+    "rating": "3.9/5",
+    "description": "Description: Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days."
+  },
+  {
+    "id": 9,
+    "img": "img/3.jpg",
     "alt": "Petite",
     "product": "Solid Gold Petite Micropave",
     "price": "$168",

@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <h1 className="heading">BD Store</h1>
-      {Data.map((item, index) => (
+      {Data.map((item) => (
         <Card
-          key={index}
+          key={item.id}
           img={item.img}
           alt={item.alt}
           product={item.product}
